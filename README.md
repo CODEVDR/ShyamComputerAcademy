@@ -26,7 +26,7 @@ To install the app, simply follow these steps:
 Follow us on social media for the latest updates:
 
 [![Twitter](https://i.imgur.com/wWzX9uB.png)](https://twitter.com/ShyamCompAcademy)
-[![Facebook](https://i.imgur.com/ZKy5k5y.png)](https://www.facebook.com/ShyamCompAcademy)
+[![Facebook](https://i.imgur.com/QSbGZlp.png)](https://www.facebook.com/ShyamCompAcademy)
 [![Instagram](https://i.imgur.com/OWdUupI.png)](https://www.instagram.com/shyamcomputeracademy/)
 
 ## License
